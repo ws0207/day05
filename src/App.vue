@@ -14,10 +14,10 @@ import HelloWorld from "./components/HelloWorld.vue";
     <!-- <router-Link to="/login">登录</router-Link>
     <router-link to="/main">主页</router-link>
     <p>{{ $store.state.name }}</p> -->
-    <div
+    <!-- <div
       class="rounded-3xl"
       style="width: 200px; height: 200px; background-color: red"
-    ></div>
+    ></div> -->
     <router-view></router-view>
   </div>
 </template>
